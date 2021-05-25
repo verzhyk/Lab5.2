@@ -1,0 +1,7 @@
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\bin\Debug\labaVlad.exe.config
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\bin\Debug\labaVlad.exe
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\bin\Debug\labaVlad.pdb
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\obj\Debug\labaVlad.csprojAssemblyReference.cache
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\obj\Debug\labaVlad.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\obj\Debug\labaVlad.exe
+C:\Users\goss_rivero\source\repos\labaVlad\labaVlad\obj\Debug\labaVlad.pdb
